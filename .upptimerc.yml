@@ -50,9 +50,9 @@ status-website:
       href: https://github.com/pritesh-1904/moto-monitor-upptime
 workflowSchedule:
   graphs: "*/5 * * * *"
-  responseTime: "/5 * * * *"
-  staticSite: "/5 * * * *"
-  summary: "/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
   updateTemplate: "*/5 * * * *"
   updates: "*/5 * * * *"
   uptime: "*/5 * * * *"
