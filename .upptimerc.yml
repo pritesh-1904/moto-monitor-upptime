@@ -13,9 +13,6 @@ sites:
   - name: MotoShare China (.com.cn)
     url: https://motoshare.com.cn
     ssl: true
-  - name: MotoShare China (.cn)
-    url: https://motoshare.cn
-    ssl: true
   - name: MotoShare Mexico
     url: https://motoshare.mx
     ssl: true
