@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.in.ico",
     "slug": "moto-share-india",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1772,
-    "timeDay": 1857,
+    "timeDay": 1860,
     "timeWeek": 1776,
     "timeMonth": 1772,
     "timeYear": 1772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 4
+    }
   },
   {
     "name": "MotoShare Colombia",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.co.ico",
     "slug": "moto-share-colombia",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1170,
-    "timeDay": 1194,
+    "timeDay": 1195,
     "timeWeek": 1171,
     "timeMonth": 1170,
     "timeYear": 1170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 2
+    }
   },
   {
     "name": "MotoShare Indonesia",
@@ -47,8 +51,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 1319,
-    "timeDay": 1283,
-    "timeWeek": 1321,
+    "timeDay": 1282,
+    "timeWeek": 1322,
     "timeMonth": 1319,
     "timeYear": 1319,
     "dailyMinutesDown": {
@@ -67,8 +71,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 1433,
-    "timeDay": 1428,
-    "timeWeek": 1433,
+    "timeDay": 1426,
+    "timeWeek": 1434,
     "timeMonth": 1433,
     "timeYear": 1433,
     "dailyMinutesDown": {
@@ -81,17 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.mx.ico",
     "slug": "moto-share-mexico",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1238,
-    "timeDay": 1293,
-    "timeWeek": 1234,
+    "timeDay": 1292,
+    "timeWeek": 1235,
     "timeMonth": 1238,
     "timeYear": 1238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 2
+    }
   },
   {
     "name": "MotoShare USA",
@@ -100,16 +106,18 @@
     "slug": "moto-share-usa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1177,
-    "timeDay": 1188,
-    "timeWeek": 1176,
+    "timeDay": 1187,
+    "timeWeek": 1177,
     "timeMonth": 1177,
     "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   },
   {
     "name": "MotoShare Japan",
@@ -123,7 +131,7 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 1337,
-    "timeDay": 1305,
+    "timeDay": 1306,
     "timeWeek": 1339,
     "timeMonth": 1337,
     "timeYear": 1337,
@@ -143,7 +151,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1505,
-    "timeDay": 1489,
+    "timeDay": 1491,
     "timeWeek": 1509,
     "timeMonth": 1505,
     "timeYear": 1505,
@@ -161,8 +169,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1661,
-    "timeDay": 1638,
-    "timeWeek": 1666,
+    "timeDay": 1641,
+    "timeWeek": 1667,
     "timeMonth": 1661,
     "timeYear": 1661,
     "dailyMinutesDown": {}
@@ -179,7 +187,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1485,
-    "timeDay": 1447,
+    "timeDay": 1448,
     "timeWeek": 1488,
     "timeMonth": 1485,
     "timeYear": 1485,
