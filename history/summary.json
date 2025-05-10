@@ -29,7 +29,7 @@
     "slug": "moto-share-colombia",
     "status": "up",
     "uptime": "90.89%",
-    "uptimeDay": "34.64%",
+    "uptimeDay": "35.04%",
     "uptimeWeek": "69.00%",
     "uptimeMonth": "90.89%",
     "uptimeYear": "90.89%",
@@ -94,7 +94,7 @@
     "slug": "moto-share-mexico",
     "status": "up",
     "uptime": "90.89%",
-    "uptimeDay": "34.65%",
+    "uptimeDay": "35.04%",
     "uptimeWeek": "69.00%",
     "uptimeMonth": "90.89%",
     "uptimeYear": "90.89%",
@@ -117,7 +117,7 @@
     "slug": "moto-share-usa",
     "status": "up",
     "uptime": "90.89%",
-    "uptimeDay": "34.65%",
+    "uptimeDay": "35.04%",
     "uptimeWeek": "69.00%",
     "uptimeMonth": "90.89%",
     "uptimeYear": "90.89%",
@@ -180,18 +180,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.asia.ico",
     "slug": "moto-share-asia",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1631,
     "timeDay": 1663,
     "timeWeek": 1623,
     "timeMonth": 1631,
     "timeYear": 1631,
     "dailyMinutesDown": {
-      "2025-05-10": 1
+      "2025-05-10": 6
     }
   },
   {
@@ -200,18 +200,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshareafrica.com.ico",
     "slug": "moto-share-africa",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "91.54%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.64%",
+    "uptimeDay": "91.15%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 1447,
     "timeDay": 1439,
     "timeWeek": 1441,
     "timeMonth": 1447,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2025-05-10": 121
+      "2025-05-10": 127
     }
   }
 ]
